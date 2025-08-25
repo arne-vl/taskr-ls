@@ -1,0 +1,8 @@
+task build:
+  run = go build -o taskr_ls
+
+task install:
+  run   = go install
+  needs = build
+  alias = i
+
