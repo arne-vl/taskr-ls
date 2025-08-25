@@ -11,19 +11,5 @@ A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-p
 - Diagnostics
 - Formatting
 
-## 🚀 Installation
-Clone, build and install:
-
-```bash
-git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
-go build -o taskr_lsp
-go install
-```
-or
-```bash
-git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
-taskr install
-```
-
-## 📦 Integration
-- [Neovim](https://github.com/arne-vl/taskr-ls/wiki/Neovim)
+## 📘 Docs
+📖 [Wiki](https://github.com/arne-vl/taskr-ls/wiki)
