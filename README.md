@@ -16,7 +16,7 @@ Clone, build and install:
 
 ```bash
 git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
-go build -o taskr-lsp
+go build -o taskr_lsp
 go install
 ```
 or
