@@ -3,7 +3,7 @@
 A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) implementation for the [taskr](https://github.com/arne-vl/taskr) configuration language.
 
 ## ✨ Features
-- Completion with docs
+- Completions (keywords)
 - Snippets
 
 ## 👀 Still coming
