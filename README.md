@@ -24,3 +24,6 @@ or
 git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
 taskr install
 ```
+
+## 📦 Integration
+- [Neovim](https://github.com/arne-vl/taskr-ls/wiki/Neovim)
