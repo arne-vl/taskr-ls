@@ -1,0 +1,26 @@
+# taskr-lsp
+
+A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) implementation for the [taskr](https://github.com/arne-vl/taskr) configuration language.
+
+## ✨ Features
+- Completion with docs
+- Snippets
+
+## 👀 Still coming
+- Hover documentation
+- Diagnostics
+- Formatting
+
+## 🚀 Installation
+Clone, build and install:
+
+```bash
+git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
+go build -o taskr-lsp
+go install
+```
+or
+```bash
+git clone https://github.com/arne-vl/taskr-lsp && cd taskr-lsp
+taskr install
+```
